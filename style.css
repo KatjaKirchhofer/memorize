@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+img {
+    height: 200px;
+    width: calc(200px * 5 / 7);
+    margin: 50px;
+}
